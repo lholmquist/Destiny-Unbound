@@ -5,6 +5,8 @@
 
 ### What is Salty Pig?
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/salty-pig/Salty-Pig.svg)](https://greenkeeper.io/)
+
 It is an attempt to create a Unified Push server in Node.js following the specification defined by the AeroGear UnifiedPush Server, https://aerogear.org/docs/specs/aerogear-unifiedpush-rest/index.html#home
 
 
