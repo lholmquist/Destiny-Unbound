@@ -14,12 +14,12 @@
   "dependencies": {
     "apn": "^1.7.6",
     "boom": "^3.2.1",
-    "hapi": "^13.4.1",
+    "hapi": "^17.0.0",
     "hapi-auth-basic": "^4.2.0",
     "joi": "^8.4.2",
     "lodash": "^4.13.1",
     "mongodb": "^2.1.18",
-    "node-gcm": "^0.14.3",
+    "node-gcm": "^1.0.2",
     "node-uuid": "^1.4.7",
     "stream-to-array": "^2.3.0"
   },
